@@ -1,14 +1,11 @@
-# compiled output
-/dist
-
-# dependencies
-/node_modules
-
-# IDEs and editors
-/.idea
-
-# System Files
+node_modules/
 .DS_Store
-Thumbs.db
-
-/package-lock.json
+*.log
+haters/
+.next/
+.build/
+layout.md
+variables.env
+*.env
+.keystone
+*.db
